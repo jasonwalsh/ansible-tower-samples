@@ -4,7 +4,3 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
-
-    - name: Goodbye Message
-      debug:
-        msg: "Goodbye, World!"
